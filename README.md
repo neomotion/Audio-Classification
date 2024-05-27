@@ -43,3 +43,12 @@ The AudioClassification.ipynb notebook covers the following steps:
 4. Model Training: Train the model using the preprocessed data.
 5. Model Evaluation: Evaluate the model's performance on a validation set and visualize the results.
 
+
+
+
+This README file provides an overview of the repository, including instructions for installation, usage, data preprocessing, model training, and contributing. If you have any questions or need further assistance, feel free to open an issue in the repository.
+
+
+
+
+
